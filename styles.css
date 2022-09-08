@@ -1,0 +1,59 @@
+img{
+border-radius: 50%;
+position:relative;
+width: auto;
+height: auto;
+
+}
+
+body{
+  background-position: center;
+
+  text-align: center;
+}
+
+h3{
+  color: #11999E;
+}
+
+td{
+  text-align: center;
+}
+.top-container{
+  padding-top:  100px;
+  position: relative;
+  background-color: #00FFFF;
+
+}
+
+.middle-container{
+  background-color: #F5DEB3;
+  table-layout: auto;
+  position: relative;
+  padding: inherit;
+}
+
+ .tab{
+padding-left: 600px;
+  position: relative;
+
+}
+
+.lists{
+
+  padding: inherit;
+  position: relative;
+}
+
+.Education{
+  padding: inherit;
+  background-color: #20B2AA;
+}
+hr{
+  background-color: #008080;
+  border-width: thick;
+}
+
+ul{
+  align-items: center;
+}
